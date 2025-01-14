@@ -191,7 +191,7 @@ Solution:
 
 ## Contributing 🤝
 
-Contributions are welcome! Please feel free to submit a Pull Request to [gemini-function-calling-demp](https://github.com/vikas434/gemini-function-calling-demp).
+Contributions are welcome<div align="center"><img src="https://github.com/vikas434/gemini-function-calling-demp/blob/main/demo-app.png?raw=true" alt="Currency Exchange App Demo" width="800"/></div>
 
 ## License 📄
 
