@@ -2,16 +2,19 @@
 
 This project demonstrates how to build a natural language currency exchange rate assistant using Google's Gemini Pro model with function calling capabilities. The application allows users to ask about exchange rates in natural language and get real-time responses.
 
-![Currency Exchange App Demo]([demo-screenshot.png](https://github.com/vikas434/gemini-function-calling-demp/blob/main/demo-app.png))
+<img src="https://github.com/vikas434/gemini-function-calling-demp/blob/main/demo-app.png?raw=true" alt="Currency Exchange App Demo" width="800"/>
 
-## Features 🌟
+## Table of Contents
+- [Features](#features-)
+- [Architecture](#architecture-)
+- [Prerequisites](#prerequisites-)
+- [Local Development Setup](#local-development-setup-)
+- [Understanding Function Calling](#understanding-function-calling-)
+- [Deployment Guide](#deployment-guide-)
+- [FAQ and Troubleshooting](#faq-and-troubleshooting-)
+- [Contributing](#contributing-)
+- [License](#license-)
 
-- Natural language processing using Google's Gemini Pro
-- Real-time exchange rates from Frankfurter API
-- Function calling capabilities for structured data extraction
-- Clean and intuitive Streamlit web interface
-- Secure deployment on Google Cloud Run
-- Secret management using Google Cloud Secret Manager
 
 ## Architecture 🏗️
 
